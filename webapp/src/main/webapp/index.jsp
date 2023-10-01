@@ -35,13 +35,13 @@
     </style>
   </head>
   <body>
-    <h1> We provide online classes, Please find contact details in description box </h1>
-    <h2> Trainer Name: SUNNY GODIWAL </h2>
+    <h1>  Please find contact details in description box </h1>
+    <h2>  Name: Basava P </h2>
 
     <br>
     <br>
     <h2> App Status  : Up & Running !!! </h2>
-    <h2> Image       : sunnydevops2022/IMAGE_NAME </h2>
+    <h2> Image       : Basavadevops/IMAGE_NAME </h2>
     <br>
     <div class="color-box blue"></div>
     <div class="color-box red"></div>
